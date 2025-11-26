@@ -1,0 +1,8 @@
+{
+  "api_key": "YOUR_GATE_API_KEY",
+  "api_secret": "YOUR_GATE_API_SECRET",
+  "futures_settle": "usdt",
+  "futures_contract": "ETH_USDT",
+  "hedge_multiplier": 1.0,
+  "poll_interval_sec": 60
+}
